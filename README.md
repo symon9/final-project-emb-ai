@@ -150,6 +150,12 @@ By completing this project, I have:
 
 ---
 
+📸 Screenshots
+
+All task screenshots (packaging, testing, deployment, error handling, etc.) are included in the screenshots/ folder
+
+---
+
 ## 📃 License
 
 This project is for educational purposes and follows the guidelines of IBM Skills Network coursework.
